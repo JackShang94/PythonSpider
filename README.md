@@ -1,2 +1,0 @@
-# PythonSpider
-Useful python spiders
